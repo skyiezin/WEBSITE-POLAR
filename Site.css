@@ -82,12 +82,12 @@ footer {
     margin-bottom: 20px; 
     
 form button {
-    margin-bottom: 20px; /* Ajuste o valor conforme necessário */
+    margin-bottom: 20px; 
 }
 
-/* Adiciona espaço acima do rodapé */
+
 footer {
-    margin-top: 20px; /* Ajuste o valor conforme necessário */
+    margin-top: 20px; 
     <style>
     .membro {
         display: flex;
